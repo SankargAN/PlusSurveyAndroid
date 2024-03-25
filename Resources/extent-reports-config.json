@@ -1,0 +1,13 @@
+{
+  "theme": "Puls Survey Platform",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": false,
+  "offlineMode": true,
+  "thumbnailForBase64": false,
+  "documentTitle": "Puls Survey Platform ExtentReports",
+  "reportName": "Puls Survey Platform Android Application",
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  "js": "",
+  "css": ""
+}
